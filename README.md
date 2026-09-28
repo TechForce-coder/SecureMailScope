@@ -773,13 +773,50 @@ Forensic Report
 
 # 📚 References
 
+# 📚 References
+
 1. **NIST SP 800-52 Rev. 2 — Guidelines for the Selection, Configuration, and Use of Transport Layer Security (TLS) Implementations**
-2. **IETF RFC 3207 — SMTP Service Extension for Secure SMTP over Transport Layer Security**
+   [NIST SP 800-52 Rev. 2](https://csrc.nist.gov/pubs/sp/800/52/r2/final?utm_source=chatgpt.com)
+
+2. **IETF RFC 3207 — SMTP Service Extension for Secure SMTP over Transport Layer Security (STARTTLS)**
+   [RFC 3207 — SMTP STARTTLS](https://www.rfc-editor.org/info/rfc3207/?utm_source=chatgpt.com)
+
 3. **IETF RFC 2595 — Using TLS with IMAP, POP3 and ACAP**
+   [RFC 2595 — TLS with IMAP and POP3](https://www.rfc-editor.org/info/rfc2595/?utm_source=chatgpt.com)
+
 4. **IETF RFC 8446 — The Transport Layer Security (TLS) Protocol Version 1.3**
-5. **IETF RFC 5280 — Internet X.509 Public Key Infrastructure Certificate and CRL Profile**
-6. **Python — Scapy Documentation**
-7. **PyShark — Python Packet Analysis**
-8. **React.js Documentation**
-9. **Tailwind CSS Documentation**
-10. **Smart India Hackathon 2026 — SIH26159**
+   [RFC 8446 — TLS 1.3](https://www.rfc-editor.org/info/rfc8446/?utm_source=chatgpt.com)
+
+5. **IETF RFC 5280 — Internet X.509 Public Key Infrastructure Certificate and Certificate Revocation List (CRL) Profile**
+   [RFC 5280 — X.509 PKI Certificate Profile](https://www.rfc-editor.org/info/rfc5280/?utm_source=chatgpt.com)
+
+6. **Scapy — Python Packet Manipulation and Network Analysis Library**
+   [Scapy Documentation](https://scapy.readthedocs.io/?utm_source=chatgpt.com)
+
+7. **PyShark — Python Wrapper for tshark / Wireshark Packet Analysis**
+   [PyShark Repository](https://github.com/KimiNewt/pyshark?utm_source=chatgpt.com)
+
+8. **scikit-learn — Machine Learning in Python**
+   [scikit-learn Documentation](https://scikit-learn.org/stable/?utm_source=chatgpt.com)
+
+9. **React.js — User Interface Library**
+   [React Documentation](https://react.dev/?utm_source=chatgpt.com)
+
+10. **Tailwind CSS — Utility-First CSS Framework**
+    [Tailwind CSS Documentation](https://tailwindcss.com/docs?utm_source=chatgpt.com)
+
+11. **MongoDB — Database Platform Documentation**
+    [MongoDB Documentation](https://www.mongodb.com/docs/?utm_source=chatgpt.com)
+
+12. **Node.js — JavaScript Runtime Documentation**
+    [Node.js Documentation](https://nodejs.org/docs/latest/api/?utm_source=chatgpt.com)
+
+13. **Express.js — Node.js Web Application Framework**
+    [Express.js Documentation](https://expressjs.com/?utm_source=chatgpt.com)
+
+14. **Socket.IO — Real-Time Bidirectional Communication**
+    [Socket.IO Documentation](https://socket.io/docs/v4/?utm_source=chatgpt.com)
+
+15. **Smart India Hackathon 2026 — SIH26159**
+    [Smart India Hackathon Official Website](https://www.sih.gov.in/?utm_source=chatgpt.com)
+
